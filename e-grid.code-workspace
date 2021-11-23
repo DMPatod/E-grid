@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "EspTrasmitter"
+		},
+		{
+			"path": "RaspReceiver"
+		}
+	],
+	"settings": {}
+}
